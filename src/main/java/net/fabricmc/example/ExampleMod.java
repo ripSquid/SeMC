@@ -1,6 +1,7 @@
 package net.fabricmc.example;
 
 import net.fabricmc.api.ModInitializer;
+import net.minecraft.server.dedicated.MinecraftDedicatedServer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
